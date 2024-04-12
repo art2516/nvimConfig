@@ -1,2 +1,2 @@
-# nvimConfig
-Repo for the nvim config
+# starter
+Starter config for NvChad
